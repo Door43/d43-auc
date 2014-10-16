@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auc:home|Door43 (auc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auc|d43-auc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auc/archive/master.zip|d43-auc.zip]]
+
+**Recent Changes**
+{{changes>ns = auc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auc|Ethnologue data]]
+
